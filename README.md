@@ -20,7 +20,9 @@ The project documentation is structured into five main series (LIS 1 to LIS 5). 
 | **LIS 5** | Integration & Quality Assurance Plan | **In Progress** | Phased |
 
 
-
+> [!NOTE]
+> **Technical documentation is currently in Italian to ensure clinical precision** and alignment with local healthcare regulations. English translations are part of our roadmap and will be released alongside the first stable modules.
+> 
 
 ## MVP & Phased Development Strategy
 The project follows an **MVP (Minimum Viable Product)** methodology. Functional requirements documented in LIS 4 and LIS 5 are being developed in stages based on the priority matrix defined in `LIS 3`.
