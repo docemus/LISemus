@@ -87,6 +87,22 @@ The project documentation is structured into five main series (LIS 1 to LIS 5). 
 | **LIS 4** | Technical Implementation Specs | **In Progress** | Phased |
 | **LIS 5** | Integration & Quality Assurance Plan | **In Progress** | Phased |
 
+## MVP & Phased Development Strategy
+The project follows an **MVP (Minimum Viable Product)** methodology. Functional requirements documented in LIS 4 and LIS 5 are being developed in stages based on the priority matrix defined in `LIS 3`.
+
+### 1. Core Functionalities (MVP Scope)
+Focuses on essential features required for the system's initial launch. This includes:
+
+* **Patient Intake:** Basic registration and ID management.
+* **Order Management:** Request validation and tracking.
+* **Reporting:** Core diagnostic workflows and result delivery.
+
+### 2. Extended Functionalities (Post-MVP)
+Advanced features designed to optimize and scale the system, including:
+
+* **Advanced Integration:** High-level synchronization with external HIS/EMR systems.
+* **Specialized Domains:** Comprehensive modules for specific areas (e.g., Blood Bank/Transfusional Services - Ambito 21).
+* **Audit & Resiliency:** Advanced audit trails and system-wide data protection.
 
 > [!NOTE]
 > **Technical documentation is currently in Italian to ensure clinical precision** and alignment with local healthcare regulations. English translations are part of our roadmap and will be released alongside the first stable modules.
