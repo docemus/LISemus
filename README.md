@@ -1,12 +1,35 @@
-# LIS - Laboratory Information System
+# LISemus - Laboratory Information System
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Project Status: Documentation Phase](https://img.shields.io/badge/Status-Documentation_Phase-orange.svg)]()
 
-This repository contains the design, technical specifications, and functional requirements for the **LIS (Laboratory Information System)** project. The system is designed to manage complex laboratory workflows, from patient registration to diagnostic reporting and specialized services.
+This repository contains the design, technical specifications, and functional requirements for the **LISemus (Laboratory Information System)** project. The system is designed to manage complex laboratory workflows, from patient registration to diagnostic reporting and specialized services.
 
-## Project Overview
-The LIS project focuses on creating a modular, scalable, and secure information system. The current focus is on the **Design & Specification Phase**, ensuring a robust baseline before moving into the development cycle.
+## Overview
+
+**LISemus** is an open-source Laboratory Information System (LIS) designed to support modern clinical laboratories, with particular attention to healthcare facilities operating in low-resource contexts.
+
+The project aims to improve the quality, traceability, safety, and efficiency of laboratory diagnostic workflows by providing a modular, interoperable, and standards-oriented software platform.
+
+LISemus is conceived as a progressive and sustainable system: it starts from a Minimum Viable Product (MVP) focused on the essential end-to-end diagnostic workflow and evolves through additional modules and functional extensions.
+
+## Vision
+
+Our vision is to make reliable laboratory diagnostics more accessible through an open-source, sustainable, and adaptable LIS platform.
+
+LISemus is intended to help laboratories move from paper-based or fragmented workflows to structured digital processes, supporting better clinical decisions, safer patient care, and stronger laboratory governance.
+
+## Mission
+
+The mission of LISemus is to provide a modern, open-source LIS that helps clinical laboratories:
+
+- manage patient requests, samples, examinations, results, and reports;
+- ensure end-to-end traceability of the diagnostic process;
+- reduce transcription errors and data loss;
+- support standardized and high-quality reporting;
+- improve interoperability with hospital systems and laboratory analyzers;
+- promote compliance with internationally recognized laboratory quality principles, including ISO 15189;
+- remain sustainable and adaptable in different healthcare environments.
 
 ## Documentation Roadmap (LIS Series)
 The project documentation is structured into five main series (LIS 1 to LIS 5). The current status is as follows:
