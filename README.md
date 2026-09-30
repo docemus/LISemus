@@ -82,12 +82,12 @@ The project documentation is structured into five main series (LIS 1 to LIS 5). 
 | Document ID | Description | Status | Reference |
 | :--- | :--- | :--- | :--- |
 | **LIS 1** | System Architecture & High-Level Design | **Baselined** | Frozen |
-| **LIS 2** | Data Model & Schema Specifications | **Baselined** | Frozen |
-| **LIS 3** | Functional Requirements Mapping (rev. 4.1) | **Baselined** | Frozen |
-| **LIS 4** | Technical Implementation Specs | **In Progress** | Phased |
+| **LIS 2** | Data Model and Schema Specifications | **Baselined** | Frozen |
+| **LIS 3** | Functional Requirements Mapping | **Baselined** | Frozen |
+| **LIS 4** | Technical Implementation Specs | **Baselined** | Frozen |
 | **LIS 5** | Integration & Quality Assurance Plan | **In Progress** | Phased |
 
-## MVP & Phased Development Strategy
+## MVP and Phased Development Strategy
 The project follows an **MVP (Minimum Viable Product)** methodology. Functional requirements documented in LIS 4 and LIS 5 are being developed in stages based on the priority matrix defined in `LIS 3`.
 
 ### 1. Core Functionalities (MVP Scope)
